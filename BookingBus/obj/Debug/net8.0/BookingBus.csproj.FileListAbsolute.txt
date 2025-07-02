@@ -1,0 +1,14 @@
+C:\Users\Catus\source\repos\BookingBus\BookingBus\bin\Debug\net8.0\BookingBus.exe
+C:\Users\Catus\source\repos\BookingBus\BookingBus\bin\Debug\net8.0\BookingBus.deps.json
+C:\Users\Catus\source\repos\BookingBus\BookingBus\bin\Debug\net8.0\BookingBus.runtimeconfig.json
+C:\Users\Catus\source\repos\BookingBus\BookingBus\bin\Debug\net8.0\BookingBus.dll
+C:\Users\Catus\source\repos\BookingBus\BookingBus\bin\Debug\net8.0\BookingBus.pdb
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.AssemblyInfoInputs.cache
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.AssemblyInfo.cs
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.csproj.CoreCompileInputs.cache
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.dll
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\refint\BookingBus.dll
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.pdb
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\BookingBus.genruntimeconfig.cache
+C:\Users\Catus\source\repos\BookingBus\BookingBus\obj\Debug\net8.0\ref\BookingBus.dll
