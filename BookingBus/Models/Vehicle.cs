@@ -48,7 +48,7 @@ namespace BookingBus.Models
 
         public virtual void PrintAvailableSeats(int seatNumber, string customerName)
         {
-            Console.WriteLine($"--- HÓA ĐƠN ---\nKhách: {customerName}\nXe: {LicensePlate}\nGhế: {seatNumber}\nLái xe: {DriverName}\nTuyến: {Route}\nGiờ khởi hành: {DepartureTime} \n");
+            Console.WriteLine($"--- Hoa Don ---\nKhách: {customerName}\nXe: {LicensePlate}\nGhe: {seatNumber}\nTai Xe: {DriverName}\nTuyen: {Route}\nGio Khoi Hanh {DepartureTime} \n");
         }
         public virtual int GetAvailableSeatsCount()
         {
